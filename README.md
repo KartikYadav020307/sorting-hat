@@ -1,5 +1,4 @@
 # New Hogwarts students into their houses.
-#### Video Demo:  <URL HERE>
 ## Description:
 #### Basically, I have created an automatic system, which takes user input in the form of Name, Characteristics & Year of Birth and categorizes the student into the 4 houses.
 #### The project.py document has 3 main functions: **check_crct_args**, **slct_house** and **slct_grade**.
